@@ -1,5 +1,6 @@
 {
   "name": "getavataaars",
+  "displayName": "Get Avataaars",
   "version": "0.0.8",
   "description": "Generate an avatar by mixing-and-matching various elements.",
   "main": "./lib/getavataaars.js",
